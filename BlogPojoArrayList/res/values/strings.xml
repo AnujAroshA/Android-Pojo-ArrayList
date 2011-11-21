@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="film_listview_title">.:: Film List ::.</string>
+    <string name="app_name">My Film List</string>
+    <string name="star_listview_title">.:: Star ::.</string>
+
+</resources>
